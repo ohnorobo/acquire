@@ -3,7 +3,7 @@ A Networked, AI-Diven Implementation of Acquire
 
 This was a project for Matthias Feleisen's graduate Software Development class.
 
-Work was done with Sarah Laplante and Lori Monteleone.
+Work was done with Jim Shargo and Lori Monteleone.
 
 To run through a game:
 ```bash
